@@ -1,8 +1,8 @@
 #include <stdio.h>
-/**
- * * main -5 5-printf.c
- * * with proper grammar, but the outcome is a piece of art,
- * * Return: 0
+/*
+ *  main  
+ *  with proper grammar, but the outcome is a piece of art,
+ *  
  * */
 int main(void)
 {
